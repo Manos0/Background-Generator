@@ -1,2 +1,2 @@
-# Gradient
+# Background Generator 
 Background Generator
